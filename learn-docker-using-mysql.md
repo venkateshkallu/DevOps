@@ -1,4 +1,6 @@
-#  Learning Docker Using MySQL
+# Day 1 of My DevOps & DevSecOps Learning Journey
+
+# Learning Docker Using MySQL
 
    In this guide, we will learn Docker by running and managing MySQL databases. You will gain hands-on experience with data persistence, and backup/restore workflows on Ubuntu.
 
