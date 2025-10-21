@@ -17,6 +17,8 @@ This guide provides a **step-by-step walkthrough** to create, configure, and con
 
 1. Navigate to the [AWS Management Console](https://aws.amazon.com/console/).
 2. Enter your credentials to access the dashboard.
+<img width="1290" height="616" alt="image" src="https://github.com/user-attachments/assets/2204522b-b6f7-418e-8a78-29e8785a5064" />
+
 
 ---
 
@@ -39,6 +41,7 @@ This guide provides a **step-by-step walkthrough** to create, configure, and con
 * **Name Your Instance:** `My-Website`
 * **Choose AMI:** Select **Amazon Linux 2** (recommended for beginners).
 * **Instance Type:** `t3.micro` (Free Tier eligible).
+<img width="1290" height="616" alt="image" src="https://github.com/user-attachments/assets/5909f9ff-f3ad-4685-b9f5-56d530cda719" />
 
 ---
 
@@ -82,6 +85,7 @@ Click **Review and Launch.**
 2. Click **Launch**.
 3. Create a new key pair named `My-KeyPair`.
 4. Download the `.pem` file and store it safely — you’ll need it to connect to your instance.
+<img width="1290" height="616" alt="image" src="https://github.com/user-attachments/assets/b440320c-2c6e-4a93-86ea-aa3b020e1e3f" />
 
 ---
 
@@ -100,6 +104,8 @@ Replace:
 
 * `/path/to/` → actual path to your `.pem` file
 * `<Public-IP>` → instance public IP address
+
+  
 
 ### 🔹 For Windows (Using PuTTY)
 
